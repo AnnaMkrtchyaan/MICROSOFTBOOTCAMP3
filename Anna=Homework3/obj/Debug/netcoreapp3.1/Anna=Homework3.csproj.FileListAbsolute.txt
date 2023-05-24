@@ -1,0 +1,14 @@
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\obj\Debug\netcoreapp3.1\Anna=Homework3.csproj.AssemblyReference.cache
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\obj\Debug\netcoreapp3.1\Anna=Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\obj\Debug\netcoreapp3.1\Anna=Homework3.AssemblyInfoInputs.cache
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\obj\Debug\netcoreapp3.1\Anna=Homework3.AssemblyInfo.cs
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\obj\Debug\netcoreapp3.1\Anna=Homework3.csproj.CoreCompileInputs.cache
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\bin\Debug\netcoreapp3.1\Anna=Homework3.exe
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\bin\Debug\netcoreapp3.1\Anna=Homework3.deps.json
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\bin\Debug\netcoreapp3.1\Anna=Homework3.runtimeconfig.json
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\bin\Debug\netcoreapp3.1\Anna=Homework3.runtimeconfig.dev.json
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\bin\Debug\netcoreapp3.1\Anna=Homework3.dll
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\bin\Debug\netcoreapp3.1\Anna=Homework3.pdb
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\obj\Debug\netcoreapp3.1\Anna=Homework3.dll
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\obj\Debug\netcoreapp3.1\Anna=Homework3.pdb
+C:\Users\H410M\source\repos\Anna=Homework3\Anna=Homework3\obj\Debug\netcoreapp3.1\Anna=Homework3.genruntimeconfig.cache
